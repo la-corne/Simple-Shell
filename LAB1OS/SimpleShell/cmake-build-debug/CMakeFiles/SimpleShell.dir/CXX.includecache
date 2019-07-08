@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sara/Documents/SimpleShell/AsynchronousProcesses.h
+iostream
+-
+unistd.h
+-
+wait.h
+-
+cstring
+-
+fstream
+-
+
+/home/sara/Documents/SimpleShell/ReadAndSplitInstructions.cpp
+iostream
+-
+cstring
+-
+ReadAndSplitInstructions.h
+/home/sara/Documents/SimpleShell/ReadAndSplitInstructions.h
+AsynchronousProcesses.h
+/home/sara/Documents/SimpleShell/AsynchronousProcesses.h
+SynchronousProcesses.h
+/home/sara/Documents/SimpleShell/SynchronousProcesses.h
+
+/home/sara/Documents/SimpleShell/ReadAndSplitInstructions.h
+
+/home/sara/Documents/SimpleShell/SynchronousProcesses.h
+unistd.h
+-
+cstdio
+-
+cstdlib
+-
+wait.h
+-
+

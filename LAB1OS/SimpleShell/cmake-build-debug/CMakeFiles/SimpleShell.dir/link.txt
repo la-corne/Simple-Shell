@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SimpleShell.dir/main.cpp.o CMakeFiles/SimpleShell.dir/SynchronousProcesses.cpp.o CMakeFiles/SimpleShell.dir/AsynchronousProcesses.cpp.o CMakeFiles/SimpleShell.dir/ReadAndSplitInstructions.cpp.o  -o SimpleShell 
